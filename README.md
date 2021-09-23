@@ -6,6 +6,8 @@ This project was made using [SFML.Net](https://github.com/SFML/SFML.Net) and .Ne
 
 The input function used was 4sin(N\*θ)/N\*π.
 
+[See the code working here](https://youtu.be/48ubk-mK30Y)
+
 ## Dependencies
 
 You need the [dotnet cli](https://dotnet.microsoft.com/download) to install the dependencies.
